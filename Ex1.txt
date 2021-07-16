@@ -1,0 +1,11 @@
+Class A
+{
+public static void main (String [] arsg)
+{
+String firstname="rahul";
+String lastname;
+String email;
+
+System.out.println(firstname);
+}
+}
